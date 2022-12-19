@@ -11,15 +11,15 @@ const Home = () => {
         <div className="banner">
             <p>Welcome to Ecommerce</p>
             <h1>FIND AMAZING PRODUCTS BELOW</h1>
-
             <a href="#container">
               <button>
                 Scroll 
               </button>
             </a>
-          </div>            
+          </div> 
     </>
   )
 }
 
 export default Home
+
